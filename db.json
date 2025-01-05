@@ -1,7 +1,7 @@
 {
-    "bitcoin": {"price":"97000"} ,
-    "ethereum": {"price":"97000"}, 
-    "bcash": {"price":"97000"}, 
-    "cardano": {"price":"97000"}, 
-    "cosmos": {"price":"97000"}
+    "bitcoin": [{"price":"97000"}] ,
+    "ethereum": [{"price":"97000"}], 
+    "bcash": [{"price":"97000"}], 
+    "cardano": [{"price":"97000"}], 
+    "cosmos": [{"price":"97000"}]
 }
