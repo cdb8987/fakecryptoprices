@@ -1,7 +1,13 @@
 {
-    "bitcoin": [{"price":"97000"}] ,
-    "ethereum": [{"price":"97000"}], 
-    "bcash": [{"price":"97000"}], 
-    "cardano": [{"price":"97000"}], 
-    "cosmos": [{"price":"97000"}]
+    "cryptoPrices": [
+        {"bitcoin": 97000}, 
+        {"ethereum": 3500}, 
+        {"altcoin1": 0},
+        {"altcoin2": 0},
+        {"altcoin3": 0},
+        {"altcoin4": 0},
+        {"altcoin5": 0},
+        {"altcoin6": 0}
+    ]
+    
 }
